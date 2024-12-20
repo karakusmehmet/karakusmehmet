@@ -13,7 +13,6 @@
 <ul>
     <li>🔭 I’m currently working on HTML, CSS, SASS, Bootstrap, Javascript, React</li>
     <li>🌱 I’m currently learning JavaScript, React and English</li>
-    <li>👯 I’m looking to collaborate on internship, part-time, remote and full-time</li>
     <li>💬 Ask me about JavaScript, software, and anything</li>
     <li>📫 How to reach me: <a target="_blank" href="mailto:karakusmehmet9833@gmail.com">karakusmehmet9833@gmail.com</a>  and <a target="_blank" href="https://www.linkedin.com/in/mehmet-karakuş/">Linkedin</a></li>
     <li>😄 Pronouns: he/his</li>
